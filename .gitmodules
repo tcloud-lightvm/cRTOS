@@ -1,7 +1,3 @@
-[submodule "crtos-nuttx"]
-	path = crtos-nuttx
-	url = git@github.com:fixstars/cRTOS-nuttx.git
-	branch = cRTOS
 [submodule "crtos-loader"]
 	path = crtos-loader
 	url = git@github.com:fixstars/cRTOS-loader.git
@@ -18,3 +14,7 @@
 	path = crtos-jailhouse
 	url = git@github.com:fixstars/cRTOS-jailhouse.git
 	branch = cRTOS
+[submodule "crtos-nuttx"]
+	path = crtos-nuttx
+	url = git@github.com:tcloud-lightvm/crtos-nuttx.git
+	branch = lightvm
